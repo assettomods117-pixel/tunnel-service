@@ -1,0 +1,6 @@
+# Simple TCP Tunnel Service
+# No external dependencies required - uses only Python standard library
+#
+# For future enhancements, you might add:
+# cryptography>=3.0  # For encrypted tokens (optional)
+# psutil>=5.0        # For system monitoring (optional)
