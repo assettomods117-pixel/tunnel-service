@@ -2,7 +2,7 @@
   # start.sh – entrypoint para o Render
 
   echo "=== Iniciando Servidor de Túnel TCP Simples ==="
-  echo ""
+  echo "Servidor Reiniciado"
 
   # Muda para o diretório onde o repositório foi baixado pelo Render
   cd /opt/render/project/src
